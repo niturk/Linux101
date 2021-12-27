@@ -1,12 +1,12 @@
-# Distro Secimi ve Kernel
+# 2 Distro Secimi ve Kernel
 
-### DistroWatch
+### 2.1 DistroWatch
 [Distro Watch](https://distrowatch.com/)
 
-### Distro Secimi
+### 2.2 Distro Secimi
 [Ubuntu Official](https://ubuntu.com/)
 
-### Kernel
+### 2.3 Kernel
 [Kernel Kaynak Kodu](https://github.com/torvalds/linux)
 
 [Kernel Resmi Sitesi](https://www.kernel.org/)

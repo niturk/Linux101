@@ -1,4 +1,6 @@
-# VirtualBox Kurulumu
+# 1 Kurulum
+
+### 1.1 VirtualBox Kurulumu
 
 https://www.mehsatek.com/virtualbox-kurulumu-virtualbox-kullanimi/
 
@@ -15,6 +17,8 @@ https://www.mehsatek.com/virtualbox-kurulumu-virtualbox-kullanimi/
 ![VirtualBox Kurulum 6](static/virtualbox-6.jpg)
 
 ![VirtualBox Kurulum 7](static/virtualbox-7.jpg)
+
+### 1.2 Extension Pack Kurulumu
 
 ---
 
