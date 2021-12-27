@@ -43,7 +43,16 @@ https://pop.system76.com/
 https://www.howtogeek.com/748445/best-linux-laptops/
 https://news.itsfoss.com/best-linux-laptops-2021/
 
-## 6 Gnome Masaustu Yoneticisi ve Ubuntu
+## 6 Gnome Masaustu Yoneticisi ve Uygulamalar
+
+### 6.1 Hatalar ve Yardim
+* Ingilizce
+* Topluluklar (Email list, telegram, discord)
+* https://www.howtoforge.com/
+* https://www.omgubuntu.co.uk/
+* https://distrowatch.com/
+* https://itsfoss.com/
+* https://www.tecmint.com/
 
 ## Hangi Alanlar icin Linux Gerekli
 * Siber Guvenlik
