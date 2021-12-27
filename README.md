@@ -24,18 +24,15 @@ https://news.itsfoss.com/best-linux-laptops-2021/
 [Masaustu Yoneticileri Gnome](windowmanager.md)
 
 ## 6 Gnome Masaustu Yoneticisi ve Uygulamalar
+[Gnome Masaustu Yoneticisi ve Linux Uygulamalari](gnome.md)
 
-### 6.1 Hatalar ve Yardim
-* Ingilizce
-* Topluluklar (Email list, telegram, discord)
-* https://www.howtoforge.com/
-* https://www.omgubuntu.co.uk/
-* https://distrowatch.com/
-* https://itsfoss.com/
-* https://www.tecmint.com/
+## 7 Linux Dosya Sistemi ve Kabuk
+[Linux Dosya Sistemi ve Bash](linux-bash.md)
 
 ## Hangi Alanlar icin Linux Gerekli
 * Siber Guvenlik
 * Backend Developer
 * Desktop Developer
 * Embedded Developer
+* Devops
+* Data Science
