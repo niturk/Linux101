@@ -29,10 +29,16 @@ https://news.itsfoss.com/best-linux-laptops-2021/
 ## 7 Linux Dosya Sistemi ve Kabuk
 [Linux Dosya Sistemi ve Bash](linux-bash.md)
 
+### 8 Ubuntu Server
+* Ubuntu server kurulumu
+* ssh uzak baglanti
+* nginx kurulumu
+* website yayinlama
+
 ## Hangi Alanlar icin Linux Gerekli
-* Siber Guvenlik
-* Backend Developer
-* Desktop Developer
-* Embedded Developer
-* Devops
-* Data Science
+* Siber Guvenlik -> [ParrotOS](https://www.parrotsec.org/)
+* Backend Developer -> [Manjaro Linux](https://manjaro.org/)
+* Desktop Developer -> **Ubuntu**
+* Embedded Developer -> **Ubuntu**
+* Devops -> **Ubuntu** **Centos** **Red Hat**
+* Data Science -> **Ubuntu**

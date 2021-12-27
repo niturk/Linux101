@@ -11,6 +11,7 @@
 * uname -a
 * update && upgrade && apt install
 
+
 ---
 
 [Geri](README.md)
