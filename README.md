@@ -14,13 +14,13 @@ https://www.gnu.org/distros/free-distros.tr.html
 ## 3 Ubuntu 20.04 LTS Kurulum
 [Ubuntu 20.04 LTS Kurulumu](ubuntults.md)
 
-## 4 Masaustu Yoneticileri
-[Masaustu Yoneticileri Gnome](windowmanager.md)
 
-
-## 5 Linux ve Bilgisayar Uyumlulugu
+## 4 Linux ve Bilgisayar Uyumlulugu
 https://www.howtogeek.com/748445/best-linux-laptops/
 https://news.itsfoss.com/best-linux-laptops-2021/
+
+## 5 Masaustu Yoneticileri
+[Masaustu Yoneticileri Gnome](windowmanager.md)
 
 ## 6 Gnome Masaustu Yoneticisi ve Uygulamalar
 
