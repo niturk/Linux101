@@ -17,6 +17,7 @@ https://www.gnu.org/distros/free-distros.tr.html
 
 ## 4 Linux ve Bilgisayar Uyumlulugu
 https://www.howtogeek.com/748445/best-linux-laptops/
+
 https://news.itsfoss.com/best-linux-laptops-2021/
 
 ## 5 Masaustu Yoneticileri
