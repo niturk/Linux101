@@ -42,3 +42,7 @@ https://news.itsfoss.com/best-linux-laptops-2021/
 * Embedded Developer -> **Ubuntu**
 * Devops -> **Ubuntu** **Centos** **Red Hat**
 * Data Science -> **Ubuntu**
+
+
+
+![Yaz kampi](static/kamp.jpg)
