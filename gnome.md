@@ -10,6 +10,7 @@
 ### 6.2 Hatalar ve Yardim
 * Ingilizce
 * how to .......
+* StackOverflow, StackExchange
 * Topluluklar (Email list, telegram, discord)
 * https://www.howtoforge.com/
 * https://www.omgubuntu.co.uk/
